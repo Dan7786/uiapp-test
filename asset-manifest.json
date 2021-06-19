@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/uiapp-test/static/css/main.e5c3cd1d.chunk.css",
-    "main.js": "/uiapp-test/static/js/main.a11cc22e.chunk.js",
-    "main.js.map": "/uiapp-test/static/js/main.a11cc22e.chunk.js.map",
+    "main.css": "/uiapp-test/static/css/main.c41f2f3f.chunk.css",
+    "main.js": "/uiapp-test/static/js/main.850b9b51.chunk.js",
+    "main.js.map": "/uiapp-test/static/js/main.850b9b51.chunk.js.map",
     "runtime-main.js": "/uiapp-test/static/js/runtime-main.98902df3.js",
     "runtime-main.js.map": "/uiapp-test/static/js/runtime-main.98902df3.js.map",
     "static/css/2.61b4cb56.chunk.css": "/uiapp-test/static/css/2.61b4cb56.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.c0c7e345.chunk.js.map": "/uiapp-test/static/js/3.c0c7e345.chunk.js.map",
     "index.html": "/uiapp-test/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/uiapp-test/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.e5c3cd1d.chunk.css.map": "/uiapp-test/static/css/main.e5c3cd1d.chunk.css.map",
+    "static/css/main.c41f2f3f.chunk.css.map": "/uiapp-test/static/css/main.c41f2f3f.chunk.css.map",
     "static/js/2.3da2a4b0.chunk.js.LICENSE.txt": "/uiapp-test/static/js/2.3da2a4b0.chunk.js.LICENSE.txt",
     "static/media/banner-image.f7118e02.png": "/uiapp-test/static/media/banner-image.f7118e02.png",
     "static/media/doctor.23a33716.png": "/uiapp-test/static/media/doctor.23a33716.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.98902df3.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.3da2a4b0.chunk.js",
-    "static/css/main.e5c3cd1d.chunk.css",
-    "static/js/main.a11cc22e.chunk.js"
+    "static/css/main.c41f2f3f.chunk.css",
+    "static/js/main.850b9b51.chunk.js"
   ]
 }
